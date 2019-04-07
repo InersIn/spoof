@@ -11,7 +11,7 @@ $ git clone https://github.com/DwiWardana/spoof.git
 ```
 $ cd spoof
 ```
-  ## Installing untuk folder py3
+  ### Installing untuk folder py3
   ```
   $ cd py3
   ```
@@ -21,7 +21,7 @@ $ cd spoof
   ```
   $ sudo chmod 700 ./spoof
   ```
-  ## Installing untuk folder py2
+  ### Installing untuk folder py2
   ```
   $ cd py3
   ```
@@ -31,12 +31,12 @@ $ cd spoof
   ```
   $ sudo chmod 700 ./simspoof
   ```
-### USAGE:
-## PY3
+## USAGE:
+### PY3
   ```
   python ./spoof
   ```
-## PY2
+### PY2
    ```
    python2 ./simspoof <target ip> <gateway ip>
    ```
