@@ -1,0 +1,6 @@
+kamene
+tabulate
+terminaltables
+netifaces
+nmap
+
