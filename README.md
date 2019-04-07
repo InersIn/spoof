@@ -34,7 +34,7 @@ $ cd spoof
 ### USAGE:
 ## PY3
   ```
-  python ./spoof
+  python ./spoof <target ip> <gateway ip>
   ```
 ## PY2
    ```
