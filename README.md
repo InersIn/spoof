@@ -1,7 +1,7 @@
 # spoof
 Python spoofer
 * Kamu bisa milih mau menggunakan yang difolder py2 atau py3
-* Untuk versi python3 pastikan versi python.37 & untuk python2 versi python2.7
+* Untuk versi python3 pastikan versi python3.7 & untuk python2 versi python2.7
 * Dicoba pada kali linux, ini harusnya juga bekerja diubuntu dan linux debian based
 
 ## Installing:
