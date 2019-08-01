@@ -34,11 +34,11 @@ $ cd spoof
 ## USAGE:
 ### PY3
   ```
-  python ./spoof
+  sudo python ./spoof
   ```
 ### PY2
    ```
-   python2 ./simspoof <target ip> <gateway ip>
+   sudo python2 ./simspoof <target ip> <gateway ip>
    ```
 
 ### Contac Me:
