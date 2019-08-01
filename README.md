@@ -41,7 +41,7 @@ $ cd spoof
    sudo python2 ./simspoof <target ip> <gateway ip>
    ```
 
-### Contac Me:
+### Contact Me:
 email: `sapu2776@gmail.com`
 
 ### Donate:
