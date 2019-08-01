@@ -23,7 +23,7 @@ $ cd spoof
   ```
   ### Installing untuk folder py2
   ```
-  $ cd py3
+  $ cd py2
   ```
   ```
   $ sudo pip2 install -r requirments.txt
@@ -45,7 +45,7 @@ $ cd spoof
 email: `sapu2776@gmail.com`
 
 ### Donate:
-XMR: `4A5yxoaWHXwA5G2eDnbeNrjdpmJwZxBVkGGsgsge8N2FUVPkdqbCtu2RxdXb15dM6jUDjWk1vWm1JNZ9FNVH7XGREVJXjYd`
+BTC: `1PqFSrZcAtFui4qmGgFooVNz1ksXrQ75C9`
 
 DOGE: `DRn7RAPSuv1p3gHn3kCYHfN5aPp46CqKUv`
 
